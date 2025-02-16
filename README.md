@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Génova Rodríguez 
 
 ### 📚 **Formación Académica**
 - **Ciclo Medio de Sistemas Microinformáticos y Redes**
