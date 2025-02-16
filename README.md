@@ -20,11 +20,6 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado:
 - [**Proyecto 2**](#): Módulos de Terraform para la administración de infraestructuras de AWS.
 - [**Proyecto 3**](#): Descripción breve del proyecto.
 
-### 📈 **Experiencia**
-- **Prácticas Profesionales**:
-  - Empresa XYZ: Descripción breve de tus responsabilidades y logros.
-  - Empresa ABC: Descripción breve de tus responsabilidades y logros.
-
 ### 🌟 **Motivación**
 Me encanta aprender y enfrentar nuevos desafíos. Estoy emocionado por la oportunidad de trabajar en proyectos innovadores y colaborar con equipos talentosos.
 
