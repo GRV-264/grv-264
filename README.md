@@ -12,7 +12,7 @@ Busco oportunidades laborales en el desarrollo de aplicaciones web y en DevOps/C
 - **Lenguajes de Programación y Frameworks**: HTML, CSS, JavaScript, PHP, React, Larabel
 - **Desarrollo de Aplicaciones Web**: Diseño y desarrollo de interfaces frontend, integración de API, desarrollo de backend
 - **DevOps y Cloud**: Docker, Terraform, Terragrunt, AWS, CI/CD
-- **Otras Habilidades**: Administración de sistemas, redes, bases de datos (SQL, NoSQL), control de versiones (Git)
+- **Otras Habilidades**: Bases de datos (SQL), control de versiones (Git)
 
 ### 📁 **Proyectos**
 Aquí puedes encontrar algunos de los proyectos en los que he trabajado:
