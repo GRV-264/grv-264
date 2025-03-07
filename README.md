@@ -24,9 +24,9 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado:
 Me encanta aprender y enfrentar nuevos desafíos. Estoy emocionado por la oportunidad de trabajar en nuevos proyectos.
 
 ### 📫 **Contacto**
-- **Correo Electrónico**: [tu.email@example.com](mailto:genova.rod.vaz@gmail.com)
-- **LinkedIn**: [linkedin.com/in/tu-perfil](www.linkedin.com/in/génova-rodríguez)
-- **GitHub**: [github.com/tu-usuario](https://github.com/GRV-264)
+- **Correo Electrónico**: [genova.rod.vaz@gmail.com](mailto:genova.rod.vaz@gmail.com)
+- **LinkedIn**: [linkedin.com/in/génova-rodríguez](www.linkedin.com/in/génova-rodríguez)
+- **GitHub**: [github.com/GRV-264](https://github.com/GRV-264)
 
 ¡Gracias por visitar mi perfil! Estoy abierto a oportunidades laborales y colaboraciones. No dudes en contactarme. 😊
 
