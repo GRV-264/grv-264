@@ -18,7 +18,7 @@ Busco oportunidades laborales en el desarrollo de aplicaciones web y en DevOps/C
 Aquí puedes encontrar algunos de los proyectos en los que he trabajado:
 - [**Proyecto 1**](#): Aplicación web con Laravel y React que permite enviar formularios de contacto y recibir un PDF por correo a través de un modal, con validación y envío automatizado.
 - [**Proyecto 2**](#): Módulos de Terraform para la administración de infraestructuras de AWS.
-- [**Proyecto 3**](#): Descripción breve del proyecto.
+- [**Proyecto 3**](#): Aplicación web con Laravel y React que utiliza las APIs de Google para obtener un mapa interactivo con resolución de coordenadas y diferentes tipos de marcadores.
 
 ### 🌟 **Motivación**
 Me encanta aprender y enfrentar nuevos desafíos. Estoy emocionado por la oportunidad de trabajar en nuevos proyectos.
