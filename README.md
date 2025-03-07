@@ -21,7 +21,7 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado:
 - [**Proyecto 3**](#): Descripción breve del proyecto.
 
 ### 🌟 **Motivación**
-Me encanta aprender y enfrentar nuevos desafíos. Estoy emocionado por la oportunidad de trabajar en proyectos innovadores y colaborar con equipos talentosos.
+Me encanta aprender y enfrentar nuevos desafíos. Estoy emocionado por la oportunidad de trabajar en nuevos proyectos.
 
 ### 📫 **Contacto**
 - **Correo Electrónico**: [tu.email@example.com](mailto:genova.rod.vaz@gmail.com)
