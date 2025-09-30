@@ -5,7 +5,7 @@
 - **Ciclo Superior de Desarrollo de Aplicaciones Web**
 - **Bootcamp en DevOps y Cloud**
 
-### 💼 **Objetivo Profesional**
+### 💼 **Profesional**
 Actualmente trabajo en TuBuenCamino (desde marzo de 2025), donde participo en el desarrollo y mantenimiento de sus soluciones digitales. Entre otras cosas y tareas, destaco:
 
 - Desarrollo de la página Good Way Santiago.
