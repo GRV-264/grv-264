@@ -6,10 +6,16 @@
 - **Bootcamp en DevOps y Cloud**
 
 ### 💼 **Objetivo Profesional**
-Busco oportunidades laborales en el desarrollo de aplicaciones web y en DevOps/Cloud. Aunque no tengo experiencia laboral formal aparte de las prácticas, tengo una gran pasión por trabajar y aprender en estos campos. Estoy motivado y ansioso por aplicar mis conocimientos y habilidades en un entorno profesional.
+Actualmente trabajo en TuBuenCamino (desde marzo de 2025), donde participo en el desarrollo y mantenimiento de sus soluciones digitales. Entre otras cosas y tareas, destaco:
+
+- Desarrollo de la página Good Way Santiago.
+- Resolución de incidencias y mejoras en la aplicación existente, incluyendo las relacionadas con los agentes de venta.
+- Colaboración en el desarrollo de una nueva aplicación.
+- Implementación de una plataforma de comparativa de facturación (TPV y transferencias), con funciones de importación y exportación de archivos .xlsx.
+- Desarrollo en curso de la intranet para alojamientos, optimizando la gestión interna de la empresa.
 
 ### 🚀 **Habilidades**
-- **Lenguajes de Programación y Frameworks**: HTML, CSS, JavaScript, PHP, React, Larabel
+- **Lenguajes de Programación y Frameworks**: HTML, CSS, JavaScript, PHP, React, Blade, Larabel
 - **Desarrollo de Aplicaciones Web**: Diseño y desarrollo de interfaces frontend, integración de API, desarrollo de backend
 - **DevOps y Cloud**: Docker, Terraform, Terragrunt, AWS, CI/CD
 - **Otras Habilidades**: Bases de datos (SQL), control de versiones (Git)
