@@ -27,7 +27,7 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado:
 - [**Proyecto 3**](https://github.com/GRV-264/poyecto_animal_aid): Aplicación web con Laravel y React que utiliza las APIs de Google para obtener un mapa interactivo con resolución de coordenadas y diferentes tipos de marcadores.
 
 ### 🌟 **Motivación**
-Me encanta aprender y enfrentar nuevos desafíos. Estoy emocionado por la oportunidad de trabajar en nuevos proyectos.
+Me encanta aprender y enfrentar nuevos desafíos. Estoy emocionada por la oportunidad de trabajar en nuevos proyectos.
 
 ### 📫 **Contacto**
 - **Correo Electrónico**: [genova.rod.vaz@gmail.com](mailto:genova.rod.vaz@gmail.com)
