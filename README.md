@@ -6,10 +6,10 @@
 - **Bootcamp en DevOps y Cloud**
 
 ### 💼 **Profesional**
-Trabaje en TuBuenCamino (desde marzo de 2025 hasta el 07 de noviembre de 2025), donde participé en el desarrollo y mantenimiento de sus soluciones digitales. Entre otras cosas y tareas, destaco:
+Trabajé en TuBuenCamino (desde marzo de 2025 hasta noviembre de 2025), donde participé en el desarrollo y mantenimiento de sus soluciones digitales. Entre otras cosas y tareas, destaco:
 
 - Desarrollo de la página [Good Way Santiago](https://goodwaysantiago.com/).
-- Resolución de incidencias y mejoras en la aplicación existente, incluyendo las relacionadas con los agentes de venta.
+- Resolución de incidencias y mejoras en la aplicación existente, incluyendo las relacionadas con los agentes de venta, traslados y producto.
 - Colaboración en el desarrollo de una nueva aplicación.
 - Implementación de una plataforma de comparativa de facturación (TPV y transferencias), con funciones de importación y exportación de archivos .xlsx.
 - Desarrollo de la intranet para alojamientos, optimizando la gestión interna de la empresa.
