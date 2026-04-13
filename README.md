@@ -6,13 +6,28 @@
 - **Ciclo Medio de Sistemas Microinformáticos y Redes**
 
 ### 💼 **Experiencia Profesional**
-TuBuenCamino (marzo de 2025 hasta noviembre de 2025), donde participé en el desarrollo y mantenimiento de sus soluciones digitales. Entre otras cosas y tareas, destaco:
 
-- Desarrollo de la página web [Good Way Santiago](https://goodwaysantiago.com/).
-- Resolución de incidencias y mejoras en la aplicación existente, incluyendo las relacionadas con los agentes de venta, traslados y producto.
-- Colaboración en el desarrollo de una nueva aplicación.
-- Implementación de una plataforma de comparativa de facturación (TPV y transferencias), con funciones de importación y exportación de archivos .xlsx.
-- Desarrollo de la intranet para alojamientos, optimizando la gestión interna de la empresa.
+  Desarrolladora Web
+  TuBuenCamino | A Coruña, Galicia, España | Mar 2025 - Nov 2025 
+  
+  Participé en el desarrollo y mantenimiento de sus soluciones digitales. Entre otras cosas y tareas, destaco:
+  
+  - Desarrollo de la página web [Good Way Santiago](https://goodwaysantiago.com/).
+  - Resolución de incidencias y mejoras en la aplicación existente, incluyendo las relacionadas con los agentes de venta, traslados y producto.
+  - Colaboración en el desarrollo de una nueva aplicación.
+  - Implementación de una plataforma de comparativa de facturación (TPV y transferencias), con funciones de importación y exportación de archivos .xlsx.
+  - Desarrollo de la intranet para alojamientos, optimizando la gestión interna de la empresa.
+
+  Prácticas Erasmus+  
+  DeepCube Srl | Chieti, Abruzos, Italia | Oct 2023 - Dic 2023 
+
+  Desarrollé un proyecto completo a partir de un diseño realizado en Figma, utilizando las siguientes tecnologías Html, Css, Bootstrap, JavaScript, React, Laravel y Mysql. 
+
+  Prácticas  
+  Fuertemovil | Las Palmas, Canarias,  España  | Abr 2019 - Jul 2019
+
+  Montaje y desmontaje de equipos. Montaje de cámaras de seguridad análogas. 
+  
 
 ### 🚀 **Habilidades**
 - **Lenguajes de Programación y Frameworks**: HTML, CSS, JavaScript, PHP, React, Blade, Larabel
