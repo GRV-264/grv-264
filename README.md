@@ -43,7 +43,7 @@
 ## 🚀 Tecnologías
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-817E7E?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/HTML5-343541?style=flat-square&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php"/>
