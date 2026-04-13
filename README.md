@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Génova Rodríguez
 
 <p align="center">
-  💻 Desarrolladora Web | DevOps & Cloud Enthusiast  
+  💻 Desarrolladora Web
 </p>
 
 <p align="center">
@@ -20,22 +20,22 @@
 ## 💼 Experiencia Profesional
 
 ### 👩‍💻 Desarrolladora Web  
-**TuBuenCamino** | A Coruña, España | *Mar 2025 - Nov 2025*
+**TuBuenCamino** | Santiago de Compostela, A Coruña, España | *Mar 2025 - Nov 2025*
 
 - 🌐 Desarrollo de la web [Good Way Santiago](https://goodwaysantiago.com/)
 - 🔧 Resolución de incidencias en módulos de negocio
-- 🚀 Nuevas funcionalidades en aplicación interna
-- 📊 Plataforma de facturación con import/export `.xlsx`
-- 🏨 Intranet de gestión para alojamientos
+- 🚀 Resolución de incidencias y mejoras en la aplicación existente, incluyendo las relacionadas con los agentes de venta, traslados y producto
+- 📊 Plataforma comparativa de facturación TPV/Transferencias con import/export `.xlsx`
+- 🏨 Desarrollo de la intranet para alojamientos
 
 ### 🌍 Prácticas Erasmus+
-**DeepCube Srl** | Italia | *Oct 2023 - Dic 2023*
+**DeepCube Srl** | Chieti, Abruzos, Italia | *Oct 2023 - Dic 2023*
 
 - Proyecto completo desde diseño en Figma
 - Tech: HTML, CSS, Bootstrap, JavaScript, React, Laravel, MySQL
 
 ### 🔧 Prácticas FP
-**FuerteMóvil** | España | *2019*
+**FuerteMóvil** |  | Las Palmas, Canarias, España | *2019*
 
 - Montaje y mantenimiento de equipos
 - Instalación de videovigilancia analógica
@@ -62,9 +62,11 @@
 ## 📫 Contacto
 
 <p align="center">
-  📧 [Email](mailto:genova.rod.vaz@gmail.com)  
-  🔗 [LinkedIn](https://www.linkedin.com/in/g%C3%A9nova-rodr%C3%ADguez/)  
-  🐙 [GitHub](https://github.com/GRV-264)
+
+📧 [Email](mailto:genova.rod.vaz@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/g%C3%A9nova-rodr%C3%ADguez/)  
+🐙 [GitHub](https://github.com/GRV-264)
+
 </p>
 
 <p align="center">
