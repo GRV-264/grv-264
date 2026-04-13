@@ -24,7 +24,7 @@
 
 - 🌐 Desarrollo de la web [Good Way Santiago](https://goodwaysantiago.com/)
 - 🔧 Resolución de incidencias en módulos de negocio
-- 🚀 Resolución de incidencias y mejoras en la aplicación existente, incluyendo las relacionadas con los agentes de venta, traslados y producto
+- 🚀 Resolución de incidencias y mejoras en la aplicación existente
 - 📊 Plataforma comparativa de facturación TPV/Transferencias con import/export `.xlsx`
 - 🏨 Desarrollo de la intranet para alojamientos
 
