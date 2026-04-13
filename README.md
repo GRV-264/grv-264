@@ -35,7 +35,7 @@
 - Tech: HTML, CSS, Bootstrap, JavaScript, React, Laravel, MySQL
 
 ### 🔧 Prácticas FP
-**FuerteMóvil** |  | Las Palmas, Canarias, España | *Abr 2019 - Jul 2019*
+**FuerteMóvil** | Las Palmas, Canarias, España | *Abr 2019 - Jul 2019*
 
 - Montaje y mantenimiento de equipos
 - Instalación de videovigilancia analógica
