@@ -13,11 +13,32 @@
 
 ---
 
+## 🧠 About Me
+
+💡 Soy desarrolladora web especializada en crear aplicaciones escalables y funcionales con Laravel y React, con interés en entornos DevOps y Cloud.  
+🚀 Me gusta transformar ideas en productos reales, optimizando procesos y mejorando la experiencia de usuario.  
+☁️ Actualmente sigo creciendo en arquitectura cloud, automatización e infraestructura como código.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GRV-264&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRV-264&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRV-264&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 📚 Formación Académica
 
-- 🎓 **Bootcamp en DevOps y Cloud**
-- 🎓 **Ciclo Superior en Desarrollo de Aplicaciones Web**
-- 🎓 **Ciclo Medio en Sistemas Microinformáticos y Redes**
+- 🎓 Bootcamp en DevOps y Cloud  
+- 🎓 Ciclo Superior en Desarrollo de Aplicaciones Web  
+- 🎓 Ciclo Medio en Sistemas Microinformáticos y Redes  
 
 ---
 
@@ -26,29 +47,27 @@
 ### 👩‍💻 Desarrolladora Web  
 **TuBuenCamino** | A Coruña, España | *Mar 2025 - Nov 2025*
 
-🛠️ Desarrollo y mantenimiento de soluciones digitales:
-
 - 🌐 Desarrollo de la web [Good Way Santiago](https://goodwaysantiago.com/)
-- 🔧 Resolución de incidencias en módulos de agentes, traslados y productos
-- 🚀 Desarrollo de nuevas funcionalidades en aplicación interna
-- 📊 Plataforma de comparativa de facturación (TPV y transferencias) con import/export `.xlsx`
-- 🏨 Intranet para alojamientos mejorando la gestión interna
+- 🔧 Resolución de incidencias en módulos de negocio
+- 🚀 Nuevas funcionalidades en aplicación interna
+- 📊 Plataforma de facturación con import/export `.xlsx`
+- 🏨 Intranet de gestión para alojamientos
 
 ---
 
 ### 🌍 Prácticas Erasmus+
-**DeepCube Srl** | Chieti, Italia | *Oct 2023 - Dic 2023*
+**DeepCube Srl** | Italia | *Oct 2023 - Dic 2023*
 
-- Desarrollo de proyecto completo desde diseño en Figma
-- Tecnologías: HTML, CSS, Bootstrap, JavaScript, React, Laravel, MySQL
+- Proyecto completo desde diseño en Figma
+- Tech: HTML, CSS, Bootstrap, JavaScript, React, Laravel, MySQL
 
 ---
 
 ### 🔧 Prácticas FP
-**FuerteMóvil** | Las Palmas, España | *Abr 2019 - Jul 2019*
+**FuerteMóvil** | España | *2019*
 
-- Montaje y mantenimiento de equipos informáticos
-- Instalación de sistemas de videovigilancia analógica
+- Montaje y mantenimiento de equipos
+- Instalación de videovigilancia analógica
 
 ---
 
@@ -69,22 +88,11 @@
 
 ---
 
-## 📁 Proyectos Destacados
+## 📁 Proyectos
 
-### 🌟 Erasmus+ Project
-🔗 https://github.com/GRV-264/proyecto_practicas_erasmus  
-App con Laravel + React para envío de formularios y generación de PDF por email.
-
----
-
-### 🐾 Animal Aid
-🔗 https://github.com/GRV-264/poyecto_animal_aid  
-Mapa interactivo con Google Maps API + Laravel + React.
-
----
-
-### ☁️ Infraestructura AWS (Terraform)
-Módulos de infraestructura como código para AWS.
+- 🌟 [Erasmus+ Project](https://github.com/GRV-264/proyecto_practicas_erasmus)  
+- 🐾 [Animal Aid](https://github.com/GRV-264/poyecto_animal_aid)  
+- ☁️ Módulos Terraform AWS  
 
 ---
 
