@@ -13,9 +13,9 @@
 
 ## 📚 Formación Académica
 
-- 🎓 Bootcamp en DevOps y Cloud  |  Nov 2024 - Mar 2025 
-- 🎓 Ciclo Superior en Desarrollo de Aplicaciones Web  | Sep 2020 - Mar 2024 
-- 🎓 Ciclo Medio en Sistemas Microinformáticos y Redes  | Sep 2017 - Jul 2019 
+- 🎓 Bootcamp en DevOps y Cloud 
+- 🎓 Ciclo Superior en Desarrollo de Aplicaciones Web
+- 🎓 Ciclo Medio en Sistemas Microinformáticos y Redes
 
 ## 💼 Experiencia Profesional
 
