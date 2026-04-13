@@ -13,23 +13,10 @@
 
 ---
 
-## 🧠 About Me
-
-💡 Soy desarrolladora web especializada en crear aplicaciones escalables y funcionales con Laravel y React, con interés en entornos DevOps y Cloud.  
-🚀 Me gusta transformar ideas en productos reales, optimizando procesos y mejorando la experiencia de usuario.  
-☁️ Actualmente sigo creciendo en arquitectura cloud, automatización e infraestructura como código.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GRV-264&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRV-264&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRV-264&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=GRV-264&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
