@@ -1,51 +1,105 @@
-# 👋 ¡Hola! Soy Génova Rodríguez 
+# 👋 ¡Hola! Soy Génova Rodríguez
 
-### 📚 **Formación Académica**
-- **Bootcamp en DevOps y Cloud**
-- **Ciclo Superior de Desarrollo de Aplicaciones Web**
-- **Ciclo Medio de Sistemas Microinformáticos y Redes**
+<p align="center">
+  💻 Desarrolladora Web | DevOps & Cloud Enthusiast  
+</p>
 
-### 💼 **Experiencia Profesional**
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Laravel-red?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker"/>
+</p>
 
-  Desarrolladora Web
-  TuBuenCamino | A Coruña, Galicia, España | Mar 2025 - Nov 2025 
-  
-  Participé en el desarrollo y mantenimiento de sus soluciones digitales. Entre otras cosas y tareas, destaco:
-  
-  - Desarrollo de la página web [Good Way Santiago](https://goodwaysantiago.com/).
-  - Resolución de incidencias y mejoras en la aplicación existente, incluyendo las relacionadas con los agentes de venta, traslados y producto.
-  - Colaboración en el desarrollo de una nueva aplicación.
-  - Implementación de una plataforma de comparativa de facturación (TPV y transferencias), con funciones de importación y exportación de archivos .xlsx.
-  - Desarrollo de la intranet para alojamientos, optimizando la gestión interna de la empresa.
+---
 
-  Prácticas Erasmus+  
-  DeepCube Srl | Chieti, Abruzos, Italia | Oct 2023 - Dic 2023 
+## 📚 Formación Académica
 
-  Desarrollé un proyecto completo a partir de un diseño realizado en Figma, utilizando las siguientes tecnologías Html, Css, Bootstrap, JavaScript, React, Laravel y Mysql. 
+- 🎓 **Bootcamp en DevOps y Cloud**
+- 🎓 **Ciclo Superior en Desarrollo de Aplicaciones Web**
+- 🎓 **Ciclo Medio en Sistemas Microinformáticos y Redes**
 
-  Prácticas  
-  Fuertemovil | Las Palmas, Canarias,  España  | Abr 2019 - Jul 2019
+---
 
-  Montaje y desmontaje de equipos. Montaje de cámaras de seguridad análogas. 
-  
+## 💼 Experiencia Profesional
 
-### 🚀 **Habilidades**
-- **Lenguajes de Programación y Frameworks**: HTML, CSS, JavaScript, PHP, React, Blade, Larabel
-- **Desarrollo de Aplicaciones Web**: Diseño y desarrollo de interfaces frontend, integración de API, desarrollo de backend
-- **DevOps y Cloud**: Docker, Terraform, Terragrunt, AWS, CI/CD
-- **Otras Habilidades**: Bases de datos (SQL), control de versiones (Git)
+### 👩‍💻 Desarrolladora Web  
+**TuBuenCamino** | A Coruña, España | *Mar 2025 - Nov 2025*
 
-### 📁 **Proyectos**
-Aquí puedes encontrar algunos de los proyectos en los que he trabajado:
-- [**Proyecto 1**](https://github.com/GRV-264/proyecto_practicas_erasmus): Aplicación web con Laravel y React que permite enviar formularios de contacto y recibir un PDF por correo a través de un modal, con validación y envío automatizado.
-- [**Proyecto 2**](#): Módulos de Terraform para la administración de infraestructuras de AWS.
-- [**Proyecto 3**](https://github.com/GRV-264/poyecto_animal_aid): Aplicación web con Laravel y React que utiliza las APIs de Google para obtener un mapa interactivo con resolución de coordenadas y diferentes tipos de marcadores.
+🛠️ Desarrollo y mantenimiento de soluciones digitales:
 
-### 📫 **Contacto**
-- **Correo Electrónico**: [genova.rod.vaz@gmail.com](mailto:genova.rod.vaz@gmail.com)
-- **LinkedIn**: [linkedin.com/in/génova-rodríguez](www.linkedin.com/in/génova-rodríguez)
-- **GitHub**: [github.com/GRV-264](https://github.com/GRV-264)
+- 🌐 Desarrollo de la web [Good Way Santiago](https://goodwaysantiago.com/)
+- 🔧 Resolución de incidencias en módulos de agentes, traslados y productos
+- 🚀 Desarrollo de nuevas funcionalidades en aplicación interna
+- 📊 Plataforma de comparativa de facturación (TPV y transferencias) con import/export `.xlsx`
+- 🏨 Intranet para alojamientos mejorando la gestión interna
 
-¡Gracias por visitar mi perfil! Estoy abierta a oportunidades laborales y colaboraciones. No dudes en contactarme. 😊
+---
 
+### 🌍 Prácticas Erasmus+
+**DeepCube Srl** | Chieti, Italia | *Oct 2023 - Dic 2023*
 
+- Desarrollo de proyecto completo desde diseño en Figma
+- Tecnologías: HTML, CSS, Bootstrap, JavaScript, React, Laravel, MySQL
+
+---
+
+### 🔧 Prácticas FP
+**FuerteMóvil** | Las Palmas, España | *Abr 2019 - Jul 2019*
+
+- Montaje y mantenimiento de equipos informáticos
+- Instalación de sistemas de videovigilancia analógica
+
+---
+
+## 🚀 Tecnologías
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
+
+</p>
+
+---
+
+## 📁 Proyectos Destacados
+
+### 🌟 Erasmus+ Project
+🔗 https://github.com/GRV-264/proyecto_practicas_erasmus  
+App con Laravel + React para envío de formularios y generación de PDF por email.
+
+---
+
+### 🐾 Animal Aid
+🔗 https://github.com/GRV-264/poyecto_animal_aid  
+Mapa interactivo con Google Maps API + Laravel + React.
+
+---
+
+### ☁️ Infraestructura AWS (Terraform)
+Módulos de infraestructura como código para AWS.
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+
+📧 [Email](mailto:genova.rod.vaz@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/g%C3%A9nova-rodr%C3%ADguez/)  
+🐙 [GitHub](https://github.com/GRV-264)
+
+</p>
+
+---
+
+<p align="center">
+✨ Siempre abierta a nuevas oportunidades y colaboraciones ✨
+</p>
