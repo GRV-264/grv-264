@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform"/>
+  <img src="https://img.shields.io/badge/Terragrunt-000000?style=flat-square&logo=terraform&logoColor=white"/>
 </p>
 
 ## 📁 Proyectos
@@ -70,9 +72,9 @@
 </p>
 
 <p align="center">
-✨ Siempre abierta a nuevas oportunidades laborales ✨
+  <img src="https://streak-stats.demolab.com?user=GRV-264&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GRV-264&theme=tokyonight&hide_border=true" />
+✨ Siempre abierta a nuevas oportunidades laborales ✨
 </p>
