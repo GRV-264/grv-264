@@ -44,15 +44,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-343541?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform"/>
-  <img src="https://img.shields.io/badge/Terragrunt-000000?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-343541?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-343541?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/PHP-343541?style=flat-square&logo=php"/>
+  <img src="https://img.shields.io/badge/Laravel-343541?style=flat-square&logo=laravel"/>
+  <img src="https://img.shields.io/badge/React-343541?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/MySQL-343541?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Git-343541?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/Terraform-343541?style=flat-square&logo=terraform"/>
+  <img src="https://img.shields.io/badge/Terragrunt-343541?style=flat-square&logo=terraform&logoColor=white"/>
 </p>
 
 ## 📁 Proyectos
