@@ -23,10 +23,12 @@
 **TuBuenCamino** | Santiago de Compostela, A Coruña, España | *Mar 2025 - Nov 2025*
 
 - 🌐 Desarrollo de la web [Good Way Santiago](https://goodwaysantiago.com/)
-- 🔧 Resolución de incidencias en módulos de negocio
-- 🚀 Resolución de incidencias y mejoras en la aplicación existente
+- 🔧 Resolución de incidencias y mejoras en la aplicación existente
+- 🚀 Colaboración en procesos de migración y evolución de la plataforma
 - 📊 Plataforma comparativa de facturación TPV/Transferencias con import/export `.xlsx`
 - 🏨 Desarrollo de la intranet para alojamientos
+
+- Tech: HTML, CSS, Tailwind, JavaScript, React, Blade, Laravel y MySQL. 
 
 ### 🌍 Prácticas Erasmus+
 **DeepCube Srl** | Chieti, Abruzos, Italia | *Oct 2023 - Dic 2023*
