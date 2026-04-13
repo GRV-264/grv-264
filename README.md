@@ -63,9 +63,9 @@
 
 <p align="center">
 
-📧 [Email](mailto:genova.rod.vaz@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/g%C3%A9nova-rodr%C3%ADguez/)  
-🐙 [GitHub](https://github.com/GRV-264)
+- **Correo Electrónico**: [genova.rod.vaz@gmail.com](mailto:genova.rod.vaz@gmail.com) 
+- **LinkedIn**: [linkedin.com/in/génova-rodríguez](www.linkedin.com/in/génova-rodríguez)
+- **GitHub**: [github.com/GRV-264](https://github.com/GRV-264)
 
 </p>
 
